@@ -106,7 +106,7 @@ module.exports = defineConfig?.({
      *
      * @see https://cn.eslint.org/docs/rules/linebreak-style
      */
-    'linebreak-style': [2, 'unix'],
+    'linebreak-style': 'off',
     'simple-import-sort/imports': 'error',
     'simple-import-sort/exports': 'error',
     'import/first': 'error',
